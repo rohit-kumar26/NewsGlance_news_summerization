@@ -221,32 +221,4 @@ You can refer to the PDF report (`Group_No11_NewsGlance_News_Summarisation_Repor
 4. **Advanced Evaluation**: Incorporate new metrics that measure factual correctness and coherence more effectively than standard ROUGE.  
 5. **Explainable AI**: Provide insights into why certain sentences or phrases are selected/generated to increase transparency.
 
----
-
-## 12. References
-
-- **Dataset**: [CNN/DailyMail on HuggingFace](https://huggingface.co/datasets/abisee/cnn_dailymail)  
-- **Fine-Tuned Model**: [Deepanshu7284/t5-small-finetuned-cnn-news](https://huggingface.co/Deepanshu7284/t5-small-finetuned-cnn-news)  
-- **Key Papers & Libraries**:  
-  - [Hugging Face Transformers](https://github.com/huggingface/transformers)  
-  - [PyTorch](https://pytorch.org/) or [TensorFlow](https://www.tensorflow.org/)  
-  - [ROUGE Metric](https://github.com/pltrdy/rouge)  
-
-For a complete literature survey and methodology, please see the accompanying project report PDF in this repository.
-
----
-
-## 13. License
-
-This project is open-source. If you plan to use or modify the code, please check the license details (if provided in this repo). Contributions and forks are welcome!
-
----
-
-## 14. Contact
-
-If you have any questions, suggestions, or issues running the code, feel free to reach out:
-
-- **Author**: [Deepanshu Aggarwal](https://github.com/deepanshu-agg)
-- **Email**: [deepanshu7284@gmail.com](mailto:deepanshu7284@gmail.com)
-
-We hope **NewsGlance** helps you quickly stay informed with concise and accurate news summaries. Happy summarizing!
+ 
